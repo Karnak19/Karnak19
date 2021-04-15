@@ -11,9 +11,7 @@ I love trying new stuffs, libraries, frameworks in the JS ecosystem !
 
 ### Tech stack :toolbox:
 
-<center>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="Apollo GraphQL Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/deno-2.svg" alt="Deno Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="Prisma Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="ESLint Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" alt="Prettier ogo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
-</center>
 
 ---
 
