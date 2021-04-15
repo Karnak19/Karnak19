@@ -1,7 +1,7 @@
 ### Hey folks ! :open_hands: I'm Basile V.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/BVernouillet?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Karnak19?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BVernouillet?style=social)](https://twitter.com/intent/follow?screen_name=bvernouillet)
+[![GitHub followers](https://img.shields.io/github/followers/Karnak19?style=social)](https://github.com/users/follow?target=Karnak19)
 
 Javascript developer & Instruction at @WildCodeSchool. Passionate by code, my current job is to transmit my passion for code to my students. :yellow_heart:
 
