@@ -19,5 +19,5 @@ I love trying new stuffs, libraries, frameworks in the JS ecosystem !
 
 ![](https://github-readme-stats.vercel.app/api?username=karnak19&show_icons=true&theme=merko&include_all_commits=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karnak19&theme=merko&hide=html,css&langs_count=7&layout=compact)  
-![](https://github-readme-stats.vercel.app/api/pin/?username=Karnak19&repo=react-starter-wcs&bg_color=0a0f0b&title_color=a9cf00&text_color=68b486&icon_color=b6d264)
-![](https://github-readme-stats.vercel.app/api/pin/?username=Karnak19&repo=spotlight-react&bg_color=0a0f0b&title_color=a9cf00&text_color=68b486&icon_color=b6d264)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Karnak19&repo=react-starter-wcs&bg_color=0a0f0b&title_color=a9cf00&text_color=68b486&icon_color=b6d264)](https://github.com/Karnak19/react-starter-wcs)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Karnak19&repo=spotlight-react&bg_color=0a0f0b&title_color=a9cf00&text_color=68b486&icon_color=b6d264)](https://github.com/Karnak19/spotlight-react)
