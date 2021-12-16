@@ -3,9 +3,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/BVernouillet?style=social)](https://twitter.com/intent/follow?screen_name=bvernouillet)
 [![GitHub followers](https://img.shields.io/github/followers/Karnak19?style=social)](https://github.com/users/follow?target=Karnak19)
 
-Javascript developer & Instruction at @WildCodeSchool. Passionate by code, my current job is to transmit my passion for code to my students. :yellow_heart:
+Frontend developer at [Origins Digital](https://origins-digital.com). Passionate by code, my current job is to build awesome websites for sport-oriented companies. :orange_heart: 
 
-I love trying new stuffs, libraries, frameworks in the JS ecosystem !
+I use to be a code instructor at [Wild Code School](https://wildcodeschool.com) in Biarritz, experience that I enjoyed a lot !
+
+I love trying new stuffs, libraries, frameworks in the JS ecosystem !  
+
+_Always bet on JavaScript_
 
 ---
 
